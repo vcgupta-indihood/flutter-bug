@@ -6,5 +6,5 @@
 2. Go to Route testing
 3. tap on lists, it will change the URL on browser containing index
 4. In any of index tap 'Show dialog'
-5. Check the logs, it rebuilds everytime we have a dialog close/open
-6. 
+5. Check the console logs, it rebuilds everytime we close/open a dialog
+
