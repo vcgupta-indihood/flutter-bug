@@ -1,6 +1,8 @@
 # routeaware
 
 ## Reproduce Issue 1:
+https://stackoverflow.com/questions/79435280/routeaware-causing-reload-after-upgrade-from-3-13-6-to-3-22
+
 **The route_testing_page rebuilds**
 1. Open the app in chrome: `flutter run -d chrome`
 2. Go to Route testing
